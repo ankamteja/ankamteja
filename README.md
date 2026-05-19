@@ -2,6 +2,7 @@
 
 ## Ankam Charan Teja 
 
+![angry-coding-cat](cat.gif)
 
 ## 🛡️ Offensive Security & Web Application Penetration Testing
 Undergraduate specializing in Cyber Security

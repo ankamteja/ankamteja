@@ -1,12 +1,12 @@
-<div align="center">
+
 
 ## Ankam Charan Teja 
-![coding-cat](https://raw.githubusercontent.com/Anquette/Anquette/main/images/cat-typing.gif)
+
 
 ## 🛡️ Offensive Security & Web Application Penetration Testing
 Undergraduate specializing in Cyber Security
 
-</div>
+
 
 ---
 

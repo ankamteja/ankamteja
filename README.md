@@ -31,4 +31,4 @@ Undergraduate specializing in Cyber Security
 
 ## 📊 Profiles & Contact
 - **Email:** ankamcharantejaa@gmail.com
-- **Professional Links:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankam-charan-teja-41b11a320) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ankamteja)
+- **Contact:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankam-charan-teja-41b11a320) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ankamteja)

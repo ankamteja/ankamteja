@@ -4,7 +4,7 @@
 Undergraduate specializing in Cyber Security
 
 ## 🏁 Technical Metrics & Certifications
-- [cite_start]**HackTheBox Academy:** Penetration Tester Path (HTB CPTS in progress) [cite: 1]
+- **HackTheBox Academy:** Penetration Tester Path (HTB CPTS in progress)
 
 ---
 

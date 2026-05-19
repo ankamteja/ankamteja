@@ -27,8 +27,7 @@ Undergraduate specializing in Cyber Security
 - **Security Wiki Logs:** [capcap-1.gitbook.io/capcap](https://capcap-1.gitbook.io/capcap)
 - **Technical Articles:** [medium.com/@ankamcharantejaa](https://medium.com/@ankamcharantejaa)
 
----
 
 ## 📊 Profiles & Contact
 - **Email:** ankamcharantejaa@gmail.com
-- **Socials:** [![LinkedIn](https://img.shields.io/badge/-%20-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankam-charan-teja-41b11a320) [![Instagram](https://img.shields.io/badge/-%20-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ankamcharanteja) [![GitHub](https://img.shields.io/badge/-%20-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ankamteja)
+- **Socials:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankam-charan-teja-41b11a320) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ankamcharanteja) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ankamteja)

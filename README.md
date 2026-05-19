@@ -7,8 +7,6 @@
 Undergraduate specializing in Cyber Security
 
 [![HTB CPTS](https://img.shields.io/badge/HTB_CPTS-In_Progress-9fe100?style=flat-square&logo=hack-the-box&logoColor=white)](https://academy.hackthebox.com/)
-[![Backdoor CTF](https://img.shields.io/badge/Backdoor_CTF-Rank_96-1a5fa5?style=flat-square)](https://github.com/ankamteja)
-[![L3m0nCTF](https://img.shields.io/badge/L3m0nCTF-Rank_12-0f6e56?style=flat-square)](https://github.com/ankamteja)
 
 </div>
 

@@ -1,6 +1,4 @@
-# Ankam Charan Teja 👋
-align="right"
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbms3cXNnd3Zjcm15b281cmY4Zndidm95Z3pma3EwZ3A0M3A4ZHpxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/du3J3M5SBiRc4/giphy.gif" width="120" align="right" />
+# Ankam Charan Teja 👋 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbms3cXNnd3Zjcm15b281cmY4Zndidm95Z3pma3EwZ3A0M3A4ZHpxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/du3J3M5SBiRc4/giphy.gif" width="120" align="right" />
 
 ## 🛡️ Offensive Security & Web Application Penetration Testing
 Undergraduate specializing in Cyber Security
@@ -21,11 +19,11 @@ Multithreaded TCP port scanner written in Python designed to target specified ra
 ---
 
 ## 📝 Documentation & Technical Writing
-- **Security Wiki Logs:** [capcap-1.gitbook.io/capcap](https://capcap-1.gitbook.io/capcap) 
+- **Security Wiki Logs:** [capcap-1.gitbook.io/capcap](https://capcap-1.gitbook.io/capcap)
 - **Technical Articles:** [medium.com/@ankamcharantejaa](https://medium.com/@ankamcharantejaa)
 
 ---
 
 ## 📊 Profiles & Contact
-- **Email:** ankamcharantejaa@gmail.com 
+- **Email:** ankamcharantejaa@gmail.com
 - **GitHub:** [github.com/ankamteja](https://github.com/ankamteja)

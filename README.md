@@ -1,11 +1,14 @@
+<div align="center">
 
-
-## Ankam Charan Teja 
-
-![angry-coding-cat](cat.gif)
+# Ankam Charan Teja 👋
+<img src="cat.gif" width="180" />
 
 ## 🛡️ Offensive Security & Web Application Penetration Testing
 Undergraduate specializing in Cyber Security
+
+</div>
+
+---
 
 
 

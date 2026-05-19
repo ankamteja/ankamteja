@@ -25,5 +25,5 @@ Multithreaded TCP port scanner written in Python designed to target specified ra
 ---
 
 ## 📊 Profiles & Contact
-- [cite_start]**Email:** ankamcharantejaa@gmail.com [cite: 1]
+- **Email:** ankamcharantejaa@gmail.com 
 - **GitHub:** [github.com/ankamteja](https://github.com/ankamteja)

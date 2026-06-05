@@ -24,7 +24,6 @@ Undergraduate specializing in Cyber Security
 ---
 
 ## 📝 Documentation & Technical Writing
-- **Security Wiki Logs:** [capcap-1.gitbook.io/capcap](https://capcap-1.gitbook.io/capcap)
 - **Technical Articles:** [medium.com/@ankamcharantejaa](https://medium.com/@ankamcharantejaa)
 
 ---

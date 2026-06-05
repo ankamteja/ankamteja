@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # Ankam Charan Teja 👋
@@ -7,7 +6,7 @@
 ### 🛡️ Offensive Security & Web Application Penetration Testing
 Undergraduate specializing in Cyber Security
 
-[![HTB CPTS](https://img.shields.io/badge/HTB_CPTS-In_Progress-9fe100?style=flat-square&logo=hack-the-box&logoColor=white)]([https://academy.hackthebox.com/](https://profile.hackthebox.com/profile/019e3131-a738-73a8-98c9-1910e98f16dc))
+[![HTB CPTS](https://img.shields.io/badge/HTB_CPTS-In_Progress-9fe100?style=flat-square&logo=hack-the-box&logoColor=white)](https://profile.hackthebox.com/profile/019e3131-a738-73a8-98c9-1910e98f16dc)
 
 </div>
 
@@ -31,5 +30,4 @@ Undergraduate specializing in Cyber Security
 ## 📊 Profiles & Contact
 - **Email:** ankamcharantejaa@gmail.com
 - **Contact:**
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankam-charan-teja-41b11a320) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ankamteja)
-
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankam-charan-teja-41b11a320) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ankamteja) [![HackTheBox](https://img.shields.io/badge/HackTheBox-9fe100?style=for-the-badge&logo=hack-the-box&logoColor=black)](https://profile.hackthebox.com/profile/019e3131-a738-73a8-98c9-1910e98f16dc)

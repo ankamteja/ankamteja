@@ -18,7 +18,7 @@ Undergraduate specializing in Cyber Security
 | :--- | :--- |
 | **[🧠 network-intrusion-detection](https://github.com/ankamteja/network-intrusion-detection)** | Machine learning pipeline evaluating NSL-KDD & UNSW-NB15. Implements PCA/LDA dimensionality reduction with Random Forest, SVM, and KNN classifiers. |
 | **[🔒 CyberStegoApp](https://github.com/ankamteja/CyberStegoApp)** | Android steganography application utilizing AES-256 encryption. Features active session controls, a native shake-to-delete mechanism, and internal logging. |
-| **[📡 python-port-scanner](https://github.com/ankamteja/python-port-scanner)** | Multithreaded TCP port scanner built from scratch in Python to map out exposed active infrastructure ports across targeted subnets. |
+
 
 ---
 ## 📝 Documentation & Technical Writing

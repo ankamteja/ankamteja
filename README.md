@@ -3,7 +3,7 @@
 # Ankam Charan Teja 👋
 <img src="cat.gif" width="160" />
 
-### Offensive Security Engineer | Web App Penetration Tester | CYS Student at Amrita Vishwa Vidyapeetham
+### Offensive Security | Web App Penetration Testing | CYS Student at Amrita Vishwa Vidyapeetham
 Undergraduate specializing in Cyber Security
 
 [![HTB CPTS](https://img.shields.io/badge/HTB_CPTS-In_Progress-9fe100?style=flat-square&logo=hack-the-box&logoColor=white)](https://profile.hackthebox.com/profile/019e3131-a738-73a8-98c9-1910e98f16dc)

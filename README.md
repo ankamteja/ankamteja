@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ankam Charan Teja 👋
+# Ankam Charan Teja 
 <img src="cat.gif" width="160" />
 
 ### Offensive Security | Web App Penetration Testing | CYS Student at Amrita Vishwa Vidyapeetham

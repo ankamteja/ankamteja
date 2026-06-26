@@ -16,16 +16,20 @@ Undergraduate specializing in Cyber Security
 
 | Repository | Focus & Technical Stack |
 | :--- | :--- |
+| **[🛰️ air-gapped-mpls-copilot](https://github.com/ankamteja/air-gapped-mpls-copilot)** | Air-gapped predictive MPLS network copilot built for ISRO BAH 2026. Offline LLM inference via Mistral 7B (Ollama), LSTM+GAT anomaly detection, SD-WAN overlay on MPLS underlay, Containerlab/FRR simulation. |
+| **[🔍 Vulnerability-Assessment-Case-Study](https://github.com/ankamteja/Vulnerability-Assessment-Case-Study)** | Independent passive security assessment and responsible disclosure for a public-sector web application. 6 vulnerabilities found (1 Critical, 3 High, 2 Medium). Disclosed to CERT-In (CERTIn-74835826). |
 | **[🧠 network-intrusion-detection](https://github.com/ankamteja/network-intrusion-detection)** | Machine learning pipeline evaluating NSL-KDD & UNSW-NB15. Implements PCA/LDA dimensionality reduction with Random Forest, SVM, and KNN classifiers. |
 | **[🔒 CyberStegoApp](https://github.com/ankamteja/CyberStegoApp)** | Android steganography application utilizing AES-256 encryption. Features active session controls, a native shake-to-delete mechanism, and internal logging. |
 
-
 ---
+
 ## 📝 Documentation & Technical Writing
 - **Technical Articles:** [medium.com/@ankamcharantejaa](https://medium.com/@ankamcharantejaa)
 - **Documentation:** [capcap-1.gitbook.io/capcap](https://capcap-1.gitbook.io/capcap)
+
 ---
+
 ## 📊 Profiles & Contact
 - **Email:** ankamcharantejaa@gmail.com
 - **Contact:**
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankam-charan-teja-41b11a320) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ankamteja) [![HackTheBox](https://img.shields.io/badge/HackTheBox-9fe100?style=for-the-badge&logo=hack-the-box&logoColor=black)](https://profile.hackthebox.com/profile/019e3131-a738-73a8-98c9-1910e98f16dc)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankam-charan-teja-41b11a320) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ankamteja) [![HackTheBox](https://img.shields.io/badge/HackTheBox-9fe100?style=for-the-badge&logo=hack-the-box&logoColor=black)](https://profile.hackthebox.com/profile/019e3131-a738-73a8-98c9-1910e98f16dc)

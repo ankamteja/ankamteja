@@ -54,9 +54,6 @@
 
 <div align="center">
 
-![Ankam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankamteja&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankamteja&layout=compact&theme=tokyonight&hide_border=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ankamteja&theme=tokyonight&hide_border=true)
 
 </div>

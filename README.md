@@ -18,7 +18,7 @@
 
 -  Building offensive-security tooling and studying web application attack surfaces
 -  Working toward the **Hack The Box CPTS** certification
--  Responsible disclosure — reported vulnerabilities to **CERT-In** (CERTIn-74835826)
+-  Responsible disclosure, reported vulnerabilities to **CERT-In** (CERTIn-74835826)
 -  Reach me at **ankamcharantejaa@gmail.com**
 
 ---

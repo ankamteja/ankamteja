@@ -43,10 +43,13 @@
 
 | Repository | Focus & Technical Stack |
 | :--- | :--- |
-| **[ air-gapped-mpls-copilot](https://github.com/ankamteja/air-gapped-mpls-copilot)** | Air-gapped predictive MPLS network copilot built for ISRO BAH 2026. Offline LLM inference via Mistral 7B (Ollama), LSTM+GAT anomaly detection, SD-WAN overlay on MPLS underlay, Containerlab/FRR simulation. |
-| **[ Vulnerability-Assessment-Case-Study](https://github.com/ankamteja/Vulnerability-Assessment-Case-Study)** | Independent passive security assessment and responsible disclosure for a public-sector web application. 6 vulnerabilities found (1 Critical, 3 High, 2 Medium). Disclosed to CERT-In (CERTIn-74835826). |
-| **[ network-intrusion-detection](https://github.com/ankamteja/network-intrusion-detection)** | Machine learning pipeline evaluating NSL-KDD & UNSW-NB15. Implements PCA/LDA dimensionality reduction with Random Forest, SVM, and KNN classifiers. |
-| **[ CyberStegoApp](https://github.com/ankamteja/CyberStegoApp)** | Android steganography application utilizing AES-256 encryption. Features active session controls, a native shake-to-delete mechanism, and internal logging. |
+| **[Vulnerability-Assessment-Case-Study](https://github.com/ankamteja/Vulnerability-Assessment-Case-Study)** | Independent, passive security assessment of a public-sector web application. 6 vulnerabilities identified (1 Critical, 3 High, 2 Medium) through OSINT and enumeration only — no exploitation — and responsibly disclosed to **CERT-In** (CERTIn-74835826). |
+| **[air-gapped-mpls-copilot](https://github.com/ankamteja/air-gapped-mpls-copilot)** | *Project Aether* — an offline, air-gapped AI copilot for MPLS network operations with zero cloud dependency. Pairs a stochastic **LSTM** (anomaly + fault classification) with a deterministic **NetworkX** graph model, and only acts when both corroborate. Containerlab 7-node MPLS L3VPN simulation, Prometheus/Grafana telemetry, and an offline LLM for plain-English explanations. Python. |
+| **[network-intrusion-detection](https://github.com/ankamteja/network-intrusion-detection)** | ML pipeline for multi-class network threat classification on **NSL-KDD** and **UNSW-NB15**. Random Forest, SVM, KNN, Naïve Bayes, and MLP with PCA/LDA dimensionality reduction, evaluated via confusion matrices, ROC curves, and feature importance. Jupyter. |
+| **[CyberStegoApp](https://github.com/ankamteja/CyberStegoApp)** | Android steganography app that hides **AES-encrypted** payloads inside images. Shake-to-delete evidence wipe, session controls, and activity logging. Java. |
+| **[turbojet-digital-twin](https://github.com/ankamteja/turbojet-digital-twin)** | Physics-informed digital twin for a four-stage turbojet — estimates hidden component health and performance (thrust, TSFC) from limited sensor data using physics-constrained surrogate models, with an interactive 3D dashboard. Python · React/Three.js *(in progress)*. |
+
+**More:** [multimedia-image-processing](https://github.com/ankamteja/multimedia-image-processing) · [latency-aware-edge-game-placement](https://github.com/ankamteja/latency-aware-edge-game-placement) · [Write-Ups](https://github.com/ankamteja/Write-Ups) (CTF & security writeups)
 
 ---
 

@@ -7,6 +7,7 @@
 *Undergraduate at Amrita Vishwa Vidyapeetham, Coimbatore - focused on offensive security, vulnerability research, and responsible disclosure.*
 
 [![HTB CPTS](https://img.shields.io/badge/HTB_CPTS-In_Progress-9fe100?style=flat-square&logo=hack-the-box&logoColor=black)](https://profile.hackthebox.com/profile/019e3131-a738-73a8-98c9-1910e98f16dc)
+[![CCNA](https://img.shields.io/badge/Cisco_CCNA-In_Progress-1BA0D7?style=flat-square&logo=cisco&logoColor=white)](#)
 [![Location](https://img.shields.io/badge/Coimbatore,_India-informational?style=flat-square&logo=googlemaps&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/Contact-ankamcharantejaa@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:ankamcharantejaa@gmail.com)
 
@@ -17,7 +18,7 @@
 ##  About
 
 -  Building offensive-security tooling and studying web application attack surfaces
--  Working toward the **Hack The Box CPTS** certification
+-  Working toward the **Hack The Box CPTS** and **Cisco CCNA** certifications
 -  Responsible disclosure, reported vulnerabilities to **CERT-In** (CERTIn-74835826)
 -  Reach me at **ankamcharantejaa@gmail.com**
 

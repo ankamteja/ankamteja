@@ -15,7 +15,7 @@
 
 ---
 
-##  About
+## About
 
 -  Building offensive-security tooling and studying web application attack surfaces
 -  Working toward the **Hack The Box CPTS** and **Cisco CCNA** certifications

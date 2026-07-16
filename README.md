@@ -4,7 +4,7 @@
 
 ### 🛡️ Offensive Security · Web App Penetration Testing · Cyber Security Student
 
-*Undergraduate at Amrita Vishwa Vidyapeetham, Coimbatore — focused on offensive security, vulnerability research, and responsible disclosure.*
+*Undergraduate at Amrita Vishwa Vidyapeetham, Coimbatore — focused on offensive security, vulnerability research*
 
 [![HTB CPTS](https://img.shields.io/badge/HTB_CPTS-In_Progress-9fe100?style=flat-square&logo=hack-the-box&logoColor=black)](https://profile.hackthebox.com/profile/019e3131-a738-73a8-98c9-1910e98f16dc)
 [![CCNA](https://img.shields.io/badge/Cisco_CCNA-In_Progress-1BA0D7?style=flat-square&logo=cisco&logoColor=white)](#)

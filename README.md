@@ -59,21 +59,7 @@
 
 **More:** [Write-Ups](https://github.com/ankamteja/Write-Ups) — CTF & security writeups.
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ankamteja&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&v=3)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=ankamteja&theme=tokyonight&hide_border=true&v=3)
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ankamteja&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&v=3)
-
-</div>
-
----
 
 ## 📝 Documentation & Technical Writing
 - **Technical Articles:** [medium.com/@ankamcharantejaa](https://medium.com/@ankamcharantejaa)

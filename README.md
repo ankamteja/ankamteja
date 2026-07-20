@@ -76,6 +76,4 @@
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-9fe100?style=for-the-badge&logo=hack-the-box&logoColor=black)](https://profile.hackthebox.com/profile/019e3131-a738-73a8-98c9-1910e98f16dc)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ankamcharantejaa)
 
-![Profile Views](https://komarev.com/ghpvc/?username=ankamteja&color=9fe100&style=for-the-badge)
-
 </div>

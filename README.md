@@ -43,7 +43,7 @@ Uptime: .......... 19 years, 5 months, 13 days
 Host: ........ Amrita Vishwa Vidyapeetham, CBE
 Kernel: ...... Offensive Security / Web AppSec
 Shell: ............................. bash, zsh
-IDE: ............ VS Code, vim, Android Studio
+IDE: .............................VS Code, vim
 
 Languages.Prog: ...... Python, C++, Java, Bash
 Languages.Web: ..... HTML, CSS, YAML, Markdown
@@ -53,7 +53,6 @@ Hobbies.Software: ....... CTFs, HTB, Write-Ups
 Hobbies.Learning: ........ DSA, ML, Networking
 
 Certs.WIP: .............. HTB CPTS, Cisco CCNA
-Toolkit: ......... Burp, Wireshark, Metasploit
 
 # ----------------- Contact ------------------
 Email: ............ ankamcharantejaa@gmail.com
@@ -64,9 +63,6 @@ GitBook: .......... capcap-1.gitbook.io/capcap
 
 # --------------- GitHub Stats ---------------
 Repos: ................... 15 owned | 2 forked
-Commits: ............ 525 | Contributions: 603
-Followers: .................. 3 | Following: 3
-Code: .......... 838 KB | Python 58%, HTML 12%
 Disclosure: ........ CERT-In / CERTIn-74835826
 ```
 

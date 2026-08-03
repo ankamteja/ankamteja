@@ -1,29 +1,38 @@
 ```
-                 ^bkk&$$gppo                     charan@ankamteja -----------------------------------------
-               .$@@@@@%@@@@%Mm+                  . OS: ............... Kali, Fedora 43, Windows 11, Android
-             o$@@@@@@@@@@@#%%@@M^                . Host: ........... Amrita Vishwa Vidyapeetham, Coimbatore
-           ~&%@@@@@@@@@@@@@@@@@@@g               . Kernel: ........ Offensive Security / Web App Pentesting
-           d@@@@@@@@@@@@@@@@@@@@@@d              . Shell: ....................................... bash, zsh
-          #@@@@@@@@@@@@@@%@@@@@@@@@b             . Editor: ................................... VS Code, vim
-          %@@@@@@@@@@@@@@@@@@@@@@@@@o            .
-         8@@@@@@@@@@@@@@@@%@@@@@@@@@B            . Languages.Programming: ......... Python, C++, Java, Bash
-         &@@@@@@@@@@@@@@@@@@@@@@@@@@w            . Languages.Markup: ............ HTML, CSS, YAML, Markdown
-          .@@@@@@@@@@@@@@@@@@@@@@@@%             . Languages.Real: ................. English, Telugu, Hindi
-           +@@#&&8#%%W#%@@@%MBW@@%p^             .
-            m@8gmmmmmdd&WWW8$m8#B.               . Certs.InProgress: ................. HTB CPTS, Cisco CCNA
-             d%&&mkkgdpb&$$$B$%M                 . Toolkit: ........... Burp, Wireshark, Metasploit, Docker
-               g$mgk&WMW&mm$Wg ^                 . Interests: .......... Vuln Research, Exploit Dev, AD, ML
-                m$$W###M#M8WW+                   .
-                ^BB88WMMWM#M&oq:                 - Contact ------------------------------------------------
-              +8#g&8W#####M$md%@d.               . Email: ...................... ankamcharantejaa@gmail.com
-            w%@#$mg&W#%%#W$&gw$@%#p              . LinkedIn: ............................ ankam-charan-teja
-          ~W@@bokmm&$8WW88B&kk@@%@# p&*,         . HackTheBox: .................................. ankamteja
-   ,ob$w $@@@&oqdg&$B88888&km%@@@@B $%#W$d+.     . Medium: .............................. @ankamcharantejaa
- ^B%%@k #@@@@m+*owqg$$mkdpgW%@@@%@~:%%%####Wmw   . GitBook: .................... capcap-1.gitbook.io/capcap
-^%@@@@M#@@@@M#&qpqqpqqwppg%@@@@@@#b%@@@@%%%###   .
-W@%@@@@@@@@@@WWWbkpwo+dk$@@@@@@@@@@@@@@@@@@%%%   - Highlights ---------------------------------------------
-%@@@@@@@@@@@@@#$Mpwo+db$@@@@@@@@@@@@@@@@@@@@@@   . Disclosure: .................. CERT-In / CERTIn-74835826
-@@@@@@@@@@@@@@@MmWw+wpg@@@@@@@@@@@@@@@@@@@@@@@   . Repos: ............. 16  |  Followers: 3  |  Since: 2007
+                    gM@@#%%#MM88MMWW88B&$M$BBp
+                  mM@@@%##%%WM88888M88MWWWWM8M#$g*
+                g8@@#W##WWW#%@@@%%#M##W#MM88BB$BMWBq
+             &M@@%WWWWW#%#%%%%W%%%MWW%8#B8MM8M8BB$M@$
+          w8WB%M888MW#WWMMMMMMM%@@%#MWB#8#WW###%%#MM%%B                charan@ankamteja -------------------------------------
+        :^8$b%%####WW####WWW#%%MWWWWWWWWWWMW######WMM8@M               . OS: .................... Kali, Fedora 43, Windows 11
+       .  @##W%##W##%%@%%%#WW##WMMW#%@@%##WM88M#WMMWW8M@B+             . Host: .............. Amrita Vishwa Vidyapeetham, CBE
+       ~mmM@W####%@@%%####%###W#W#@@@@%WMMMM888888BWMMM#@B             . Kernel: ............ Offensive Security / Web AppSec
+       M@@@#W#%%@@@%#W%%%%#########WWMBW%@@@WWWW8M8M##WW@@8            . Shell: ................................... bash, zsh
+      M@####%%%%%%%WW@@@W###W#@@%##WMMM8#%@@@%###W###WW###@%g          . Editor: ............................... VS Code, vim
+       #@%@%%%%%@%%MM@@@W###W%%%%#%###MB8#@%%%#W##%%%@%#W#W@M          .
+     pB@@@%%%%#%@%%##W%%##%#W@%%#%%%%#888W@%##W##%%%%%%%%@W@%p~:       . Languages.Programming: ..... Python, C++, Java, Bash
+    p8@@##%%%%%%%%@%%@%##%%#WW#@@%@%@@W8BM@%#@#@@%%%%%%%%%#%@8         . Languages.Markup: ........ HTML, CSS, YAML, Markdown
+    &#@@#%@%%%%%%@%%%%##W%@%WWW%@%#%#%@%##W##%%%%%##%@##@%%@@8         . Languages.Real: ............. English, Telugu, Hindi
+     B#@@%@@@@@@%%@@%WMMM%@%#MW#%%%%%#%@@%W#%@@%######@@@%@@M          .
+       dM@@@%@%@%@%%#W#%%%%%#M8W%@%@@@%%%##%%@@@%%%##%@@@%@#           . Certs.InProgress: ............. HTB CPTS, Cisco CCNA
+        B@@@%%%%@@#W#%M@@@%##M8M#%%####%%@%%#W8@@%%%%@@%@@@W           . Toolkit: ............... Burp, Wireshark, Metasploit
+         B@@@@@@@8ggk&$BMWWWW8$$MWMM##WW##8MMB&$W@@%%%@@@@8d           . Interests: .......... Vuln Research, Exploit Dev, AD
+           W@@M#&*^^~omdk&&$&gqqb$BB8MM8B$$&gqw*d@@@%@@$               .
+           M@@Mdw^^^^^~+*****+~^*mggdgkbkgpmw*~+$@@@@@8                - Contact --------------------------------------------
+            8@@@#o^~~^^:::~+~:^,:^+pdqmwmwwoo**q$8kbg                  . Email: .................. ankamcharantejaa@gmail.com
+             &@@@k~~~~^,,::^:::,,::~pqmooww*oow&@@@M                   . LinkedIn: ........................ ankam-charan-teja
+               88g*~+^:,,``+k$bgb&B&o~~~~*owwwpB#@@M                   . HackTheBox: .............................. ankamteja
+                w&p+++^:,,:,+mg&&bgw~^^~+*mmwmB&                       . Medium: .......................... @ankamcharantejaa
+                  $p++++p&$8MM8BBBBBB$bmomqqmgB                        . GitBook: ................ capcap-1.gitbook.io/capcap
+                   $k**oqk&$$B88BBB8BB&gpdddgb$                        .
+                    Bpoowwqgb$BBBBB&gdggdgkbpd&                        - Highlights -----------------------------------------
+                    $dommmqppgk&&&kkkkkb&&&q+*kM#M$                    . Disclosure: .............. CERT-In / CERTIn-74835826
+                  8#@d^+qqqqqdggggggb&$$&bq*~^~#@@@W$                  . GitHub: .............. 16 repos | 3 followers | 2021
+               8@@@@@d^^+mg&$BBBB88BB$&kdm*+^^^,8@#88M$q
+            $#@@@@@Mm+::^+wdb$BBBBB$&kdpmo*+^,.^B@#8$&$MM
+          $%@%@@@g:^~^:::~+oqdgb&&&gdppwoo+~:..w#%MB$$$&MM  pm
+        $%%M#@@#+`.,^:^^^^+*wqqpdpppqqwwwo+^:.~$@M8BBBBBMW gMMB&bm
+  ~*  $#%M8#%@%q,``.::~~~~+*owwmqqqqmwwmmo~^:^d@W88BBBBBWM&&M8&kg&$k
 ```
 
 <div align="center">

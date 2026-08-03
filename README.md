@@ -1,10 +1,32 @@
+```
+                 ^bkk&$$gppo                     charan@ankamteja -----------------------------------------
+               .$@@@@@%@@@@%Mm+                  . OS: ............... Kali, Fedora 43, Windows 11, Android
+             o$@@@@@@@@@@@#%%@@M^                . Host: ........... Amrita Vishwa Vidyapeetham, Coimbatore
+           ~&%@@@@@@@@@@@@@@@@@@@g               . Kernel: ........ Offensive Security / Web App Pentesting
+           d@@@@@@@@@@@@@@@@@@@@@@d              . Shell: ....................................... bash, zsh
+          #@@@@@@@@@@@@@@%@@@@@@@@@b             . Editor: ................................... VS Code, vim
+          %@@@@@@@@@@@@@@@@@@@@@@@@@o            .
+         8@@@@@@@@@@@@@@@@%@@@@@@@@@B            . Languages.Programming: ......... Python, C++, Java, Bash
+         &@@@@@@@@@@@@@@@@@@@@@@@@@@w            . Languages.Markup: ............ HTML, CSS, YAML, Markdown
+          .@@@@@@@@@@@@@@@@@@@@@@@@%             . Languages.Real: ................. English, Telugu, Hindi
+           +@@#&&8#%%W#%@@@%MBW@@%p^             .
+            m@8gmmmmmdd&WWW8$m8#B.               . Certs.InProgress: ................. HTB CPTS, Cisco CCNA
+             d%&&mkkgdpb&$$$B$%M                 . Toolkit: ........... Burp, Wireshark, Metasploit, Docker
+               g$mgk&WMW&mm$Wg ^                 . Interests: .......... Vuln Research, Exploit Dev, AD, ML
+                m$$W###M#M8WW+                   .
+                ^BB88WMMWM#M&oq:                 - Contact ------------------------------------------------
+              +8#g&8W#####M$md%@d.               . Email: ...................... ankamcharantejaa@gmail.com
+            w%@#$mg&W#%%#W$&gw$@%#p              . LinkedIn: ............................ ankam-charan-teja
+          ~W@@bokmm&$8WW88B&kk@@%@# p&*,         . HackTheBox: .................................. ankamteja
+   ,ob$w $@@@&oqdg&$B88888&km%@@@@B $%#W$d+.     . Medium: .............................. @ankamcharantejaa
+ ^B%%@k #@@@@m+*owqg$$mkdpgW%@@@%@~:%%%####Wmw   . GitBook: .................... capcap-1.gitbook.io/capcap
+^%@@@@M#@@@@M#&qpqqpqqwppg%@@@@@@#b%@@@@%%%###   .
+W@%@@@@@@@@@@WWWbkpwo+dk$@@@@@@@@@@@@@@@@@@%%%   - Highlights ---------------------------------------------
+%@@@@@@@@@@@@@#$Mpwo+db$@@@@@@@@@@@@@@@@@@@@@@   . Disclosure: .................. CERT-In / CERTIn-74835826
+@@@@@@@@@@@@@@@MmWw+wpg@@@@@@@@@@@@@@@@@@@@@@@   . Repos: ............. 16  |  Followers: 3  |  Since: 2021
+```
+
 <div align="center">
-
-# Ankam Charan Teja
-
-### 🛡️ Offensive Security · Web App Penetration Testing · Cyber Security Student
-
-*Undergraduate at Amrita Vishwa Vidyapeetham, Coimbatore — focused on offensive security, vulnerability research*
 
 [![HTB CPTS](https://img.shields.io/badge/HTB_CPTS-In_Progress-9fe100?style=flat-square&logo=hack-the-box&logoColor=black)](https://profile.hackthebox.com/profile/019e3131-a738-73a8-98c9-1910e98f16dc)
 [![CCNA](https://img.shields.io/badge/Cisco_CCNA-In_Progress-1BA0D7?style=flat-square&logo=cisco&logoColor=white)](#)

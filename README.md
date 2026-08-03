@@ -37,7 +37,7 @@
 <td>
 
 ```yaml
-# ------------- charan@ankamteja -------------
+# ------------- charan@impale -------------
 OS: ......... Kali, Fedora 43, Win 11, Android
 Uptime: .......... 19 years, 5 months, 13 days
 Host: ........ Amrita Vishwa Vidyapeetham, CBE

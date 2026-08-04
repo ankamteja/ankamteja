@@ -57,7 +57,7 @@ Certs.WIP: .............. HTB CPTS, Cisco CCNA
 # ----------------- Contact ------------------
 Email: ............ ankamcharantejaa@gmail.com
 LinkedIn: ................. in/ankamcharanteja
-HackTheBox: ........................ ankamteja
+HackTheBox: .......................... impale7
 Medium: .................... @ankamcharantejaa
 GitBook: .......... capcap-1.gitbook.io/capcap
 

@@ -62,9 +62,6 @@ GitBook: ........ capcap-1.gitbook.io
 
 # ---------- GitHub Stats -----------
 Repos: .......... 15 owned | 2 forked
-Commits: ......... 525 | Contrib: 603
-Followers: ......... 3 | Following: 3
-Code: ........... 838 KB | Python 58%
 Disclosure: ...... CERT-In / 74835826
 ```
 
